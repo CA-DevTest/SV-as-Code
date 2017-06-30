@@ -5,4 +5,4 @@ SV as Code is a free tool that lets you create HTTP virtual service definitions 
 
 For sharing ideas, raising issues, or for reading more information about SV as Code please visit our community page 
 
-https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D
+[Community page](https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D)
