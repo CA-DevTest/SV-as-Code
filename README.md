@@ -9,4 +9,4 @@ For sharing ideas, raising issues, or for reading more information about SV as C
 
 For code examples and use case and additional background info please visit our wiki page
 
-[Documentation](https://cawiki.ca.com/display/DTSDOC/Code+Library)
+[Documentation](https://docops.ca.com/sv-as-code/en)
