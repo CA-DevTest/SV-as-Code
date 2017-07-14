@@ -1,8 +1,8 @@
 # Service Virtualization as Code
 
-CA Service Virtualization as Code (SV as Code) provides development teams with a new, lightweight way to define virtual services and reduce time to value. 
+CA Service Virtualization as Code (SV as Code) is a new, lightweight way to define virtual services and save valuable time. 
 
-SV as Code is built by software developers specifically for other software developers. At the core, SV as Code is a lightweight, powerful Java library that provides a simple to use API so you can create and run virtual services as a part of jUnit testing. 
+At the core, SV as Code delivers a simple yet powerful Java library that provides an easy to use API so you can create and run virtual services as a part of jUnit testing. 
 
 You can create and run HTTP virtual service definitions directly in your unit testing code.
 
