@@ -6,9 +6,10 @@ Create and run HTTP virtual service definitions directly in your unit testing co
 
 HTTP virtual services are completely transparent to an application under test and do not require any configuration tweaks.
 
+[How to use SV as Code](https://docops.ca.com/sv-as-code/en)
+
 [Tell us what you think](https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D)
 
-[How to use SV as Code](https://docops.ca.com/sv-as-code/en)
 
 ## Code Example
 ```java
