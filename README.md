@@ -10,7 +10,7 @@ For sharing ideas, raising issues, or for reading more information about SV as C
 
 For code examples and use case and additional background info please visit our wiki page
 
-[Documentation](https://docops.ca.com/sv-as-code/en)
+[How to use SV as Code](https://docops.ca.com/sv-as-code/en)
 
 ## Code Example
 ```java
