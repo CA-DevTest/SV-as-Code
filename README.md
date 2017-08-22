@@ -10,7 +10,7 @@ Even better, the HTTP virtual services are completely transparent to an applicat
 
 [How to use SV as Code](https://github.com/CA-DevTest/SV-as-Code/wiki)
 
-[Tell us what you think](https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D)
+[Share ideas and raise issues](https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D)
 
 
 ## Code Example
