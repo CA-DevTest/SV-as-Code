@@ -1,0 +1,10 @@
+com.ca.svcode.agent
+com.ca.svcode.agent.hijack
+com.ca.svcode.api
+com.ca.svcode.api.matchers
+com.ca.svcode.engine.junit4
+com.ca.svcode.protocols.http
+com.ca.svcode.protocols.http.fluent
+com.ca.svcode.protocols.http.matchers
+com.ca.svcode.sdk
+com.ca.svcode.sdk.function

@@ -1,0 +1,321 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: VmrRqAIgAm0FCZViZFzpaP8OfDbN4
+ iY0MyYFuzTMPv8=
+SHA-256-Digest-Manifest: 9FRembF/5N5yuc0Gn1sZE4u1/W/00w1xFT08waVUWnE=
+Created-By: 1.8.0_60 (Oracle Corporation)
+
+Name: com/ca/svcode/api/RequestAccessor.html
+SHA-256-Digest: veDfkbowNkfEY7j2y/tStXHqzP2Xkmed5kUAiyxvxR4=
+
+Name: com/ca/svcode/api/matchers/ListMultimapLoadingMatcher.html
+SHA-256-Digest: fan+yIwMEfFCXUBuwBSmlIhL14Bbgnnq+r+j8KXT9L0=
+
+Name: com/ca/svcode/api/matchers/AttributesLoadingMatcher.html
+SHA-256-Digest: dw4UZLR1Hojy4w/S4cKWo+6tfBaKmttx2+1sPXqiivg=
+
+Name: com/ca/svcode/protocols/http/fluent/AbstractHttpDefaultResponseB
+ uilder.html
+SHA-256-Digest: Bfuf2a63yY1BNa7MJTo8RBhHjOG5Pi//GmurjpYvowY=
+
+Name: com/ca/svcode/api/matchers/GenericMatchers.html
+SHA-256-Digest: zI8IMB90U/3jGLJzN7naKRw1vpQHrIEqwKSNL5JLYrU=
+
+Name: com/ca/svcode/engine/junit4/package-tree.html
+SHA-256-Digest: T7nQjOPoDy54P7DhUX9aYsxY3JN4Uops4Ov9T0DjsRM=
+
+Name: com/ca/svcode/agent/HijackTransformer.html
+SHA-256-Digest: RI7Jcka6TBYVLSE11C2RhULXok6adrN81YyeIrua5gY=
+
+Name: com/ca/svcode/sdk/function/Composition.ConsumerComposition.html
+SHA-256-Digest: uC9XTOKr5jF31P+UCFOPnmmYgx15LuVHo1+7w2C4NqE=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpTransactionReference.htm
+ l
+SHA-256-Digest: Rgu89qO1TmZoB7lD+dcxCBhCKqZTCjF0Wjv0kd7D3fg=
+
+Name: com/ca/svcode/api/matchers/ListLoadingMatcher.html
+SHA-256-Digest: xpix9SoagX/0mSDlrCCeqRnnF8qAEVFlPS8NY9XMxd0=
+
+Name: com/ca/svcode/api/VirtualTransactionBuilder.html
+SHA-256-Digest: c0wyWek+7huMIrIvpe7zV8wtzhXoSnzjdUDMAb8hU2E=
+
+Name: constant-values.html
+SHA-256-Digest: Q0J9exk/0lhZSvv0/h9UI5ZXL9Lh0wZToJ4LKp0fNwA=
+
+Name: com/ca/svcode/engine/junit4/VirtualServerRule.html
+SHA-256-Digest: fzCFnIAtSv8fmwC8E5fuv+KGf8UO1pEH3FbRIS40O+s=
+
+Name: com/ca/svcode/agent/AgentLoader.html
+SHA-256-Digest: +9y524RqwhiR/wy+ZN4Ci9VBHkLuKCCJkmQNOMLhsuk=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpVerificationBuilder.html
+SHA-256-Digest: R5PjG/ty7mOhGOLdAwigDEOMl2EBe2H/Gs3drpyZ5ZI=
+
+Name: stylesheet.css
+SHA-256-Digest: +qz/hCU5lBogE8j1p9SSoIr+ij+qotxZldebobLidmw=
+
+Name: com/ca/svcode/sdk/package-summary.html
+SHA-256-Digest: 73jOnFeEngrgEreLUPUrZzRMVKqZau3PfNO6LekmQlc=
+
+Name: com/ca/svcode/protocols/http/package-frame.html
+SHA-256-Digest: v3Dr8Mqk9r74vhswYt/XHlG0SP4l0i5LjCAzAV40eLM=
+
+Name: com/ca/svcode/protocols/http/HttpConnection.HttpsConfiguration.h
+ tml
+SHA-256-Digest: wUFuLJi1PNA1FdidHDaS6h9UhSTvHOBcUbJxN2PoLXU=
+
+Name: com/ca/svcode/agent/AgentException.html
+SHA-256-Digest: ZM60ZGnZ/jo2M0SeiFkVJvJKM6O5lvzAzYftV9UXGWw=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpTransactionBuilder.html
+SHA-256-Digest: JQuCF6sapsI6m49P7sSwNfKOk8PZuMEvPtntzjuGAto=
+
+Name: com/ca/svcode/api/matchers/ArgumentsLoadingMatcher.html
+SHA-256-Digest: E16p8UdaJiZxJfiAVCTmtwylBCT+P3MQGXaW2lMEqDM=
+
+Name: com/ca/svcode/agent/hijack/package-summary.html
+SHA-256-Digest: dVBZrlNymNtev0hd9i+SwqLgRw4BX91LfsXpUW5KJV8=
+
+Name: com/ca/svcode/api/RuntimeServer.html
+SHA-256-Digest: zk6I0O/GwF5pXj3ByzguNJklPDLgPeJwbhRiV2r63zU=
+
+Name: deprecated-list.html
+SHA-256-Digest: BtH4cNuInPt7iV/11akqJRjqIipGphtRiDDRcH5KsPE=
+
+Name: com/ca/svcode/protocols/http/HttpConnection.html
+SHA-256-Digest: CbU20ATDLFtxDAUl4+yUjRd/gOyiTxQr0D7CA5Znt94=
+
+Name: com/ca/svcode/agent/hijack/HijackMode.html
+SHA-256-Digest: jwFNLpoKqm8+MqlFUOwDVDMV7mqzeLAjT4c1QyYtiDo=
+
+Name: com/ca/svcode/api/ConnectedServer.html
+SHA-256-Digest: HsHQnqODYCmCxfCTU7aFQAYDiR6H6UCRCbIX6rm7KZg=
+
+Name: com/ca/svcode/sdk/Request.html
+SHA-256-Digest: 2z2R4PCHlZ4nPmR5lZZR7xNNf4359dePQi3F0xadxcw=
+
+Name: allclasses-noframe.html
+SHA-256-Digest: ojd/fBOeiVOx1CV0Y3pgBwNGsKv+Uq+Nb4oCzQLVauc=
+
+Name: com/ca/svcode/sdk/function/Consumer.html
+SHA-256-Digest: BFHN8udqP/GfNot0hZCmp6d+wUlfqcb9UH2By20EiYE=
+
+Name: com/ca/svcode/agent/hijack/HijackContext.html
+SHA-256-Digest: MTJeQtGjcpDgRDbwzAtzt2o1gRNfriFKVSkUDulpT1Y=
+
+Name: com/ca/svcode/api/matchers/package-frame.html
+SHA-256-Digest: mTiY+/fithKM+1/O0pZALJuruH7NhKlxnNn8l4gapg4=
+
+Name: com/ca/svcode/agent/hijack/package-tree.html
+SHA-256-Digest: 4Iu5JKsDRQq5x8OJf4NFch5qryvGUM/htinpVri7eyg=
+
+Name: com/ca/svcode/api/Verification.html
+SHA-256-Digest: 6xGIuWswVx0cIGSvUhZJzXU+N/7AJJYvk16iaeQzwAw=
+
+Name: com/ca/svcode/api/matchers/RegexMatcher.html
+SHA-256-Digest: srFwwT0FXM2/T7l3WCpmywsuxSYgk/8qrzds3U3Lga8=
+
+Name: com/ca/svcode/protocols/http/matchers/package-frame.html
+SHA-256-Digest: PYJA+6RtaGwy/Bs3NcvlaN/bhKvYiO9BiSJ4aHD16Ks=
+
+Name: com/ca/svcode/api/package-tree.html
+SHA-256-Digest: 1TrsDyCiEnprhrFIiHal4el9i+rVZi8yZwEn2WbrQJU=
+
+Name: com/ca/svcode/sdk/function/Function.html
+SHA-256-Digest: oNGS3AJx2/CnbhRNcBnhlDIhV6M3F2cOzldxnVbqHNc=
+
+Name: com/ca/svcode/sdk/Connection.html
+SHA-256-Digest: zvbSXmgD0U+WLqVxbsrQpcVr+b4j1lPV2kh2wVKyIQ8=
+
+Name: overview-summary.html
+SHA-256-Digest: 766djDP4aayPsjPAF6/iooDwmip4iuN5sof9pMLxiCU=
+
+Name: allclasses-frame.html
+SHA-256-Digest: KGwF/Ixj0xXuCyuadPlYt9m5N9SAl2E/24X/7QO0zXY=
+
+Name: com/ca/svcode/api/TransactionVerificationProvider.html
+SHA-256-Digest: bXF3yaUHWg7/6iJU2jisHrQYqV7kFkrWHY4ICmMGQrQ=
+
+Name: com/ca/svcode/api/matchers/MetaLoadingMatcher.html
+SHA-256-Digest: X/iQAPudnBlBtUZXWGVd3Qf69B2MJ6KFeL2t0m6fj8I=
+
+Name: com/ca/svcode/protocols/http/fluent/AbstractHttpRequestVerificat
+ ionBuilder.html
+SHA-256-Digest: YL2komt5DGlIpcioImPAamJEqQLGb4N8FHse6qtpGuQ=
+
+Name: com/ca/svcode/sdk/function/Composition.FunctionComposition.html
+SHA-256-Digest: YK195VOwOXuOGfM1zJvYIvSUBHXArA55MkrIX7Dl064=
+
+Name: com/ca/svcode/engine/junit4/package-summary.html
+SHA-256-Digest: FFU7l5aqbV7kXKoY9F6uvlFBt2BQH13Uju5RFFnrg38=
+
+Name: com/ca/svcode/api/matchers/TemplateMatcher.html
+SHA-256-Digest: cv+qCZ363GOYiUrgCaE/LIymSQgEmsVIYOqd568plWo=
+
+Name: index.html
+SHA-256-Digest: Cy8QcBIjIVuejoIHDuVlb8Te7/dGfftxdcfzz5vFUnU=
+
+Name: com/ca/svcode/sdk/function/package-tree.html
+SHA-256-Digest: r9SEHoW2Prx/Hwzxli64DWDQlZHPAq2sYa3GRyGgWSQ=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpFluentInterface.html
+SHA-256-Digest: I7SdEPxjC2bZkSF7AK95N4KWrAAjpxX469Xgwv94Y7M=
+
+Name: package-list
+SHA-256-Digest: nRAbViWksDFYL1BJxOejKHlXOj9VMEGelWbP5kukaTE=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpResponseBuilder.html
+SHA-256-Digest: o63f7KQBer49kn+sONbqoVu4/HbVaed90f7sZmzkY1w=
+
+Name: com/ca/svcode/protocols/http/HttpConnection.HttpsConfigurationBu
+ ilder.html
+SHA-256-Digest: BUy/YTyC3+XXg6YtBjHfYv+tfUCd/icnd+J6qZ0M4ng=
+
+Name: com/ca/svcode/protocols/http/matchers/package-tree.html
+SHA-256-Digest: CbCIQV5bpz0hZ/og3ErC3nso+ajyHjvMmMNWLMPrS+s=
+
+Name: com/ca/svcode/sdk/function/package-frame.html
+SHA-256-Digest: I+4vtseIUQUWinNnrCVtKL2gr/Z2m9ZrAIQFXGr/eYU=
+
+Name: com/ca/svcode/api/VirtualServerFactory.html
+SHA-256-Digest: 6JN7YJmDQ/nqzl376IPrtQr+yrZhNhNmrZei/42B0D8=
+
+Name: com/ca/svcode/agent/package-tree.html
+SHA-256-Digest: AZs3LtGoc4ufLkUbMI/2R3Q/MqR1cNB09sBgDvJmwVo=
+
+Name: com/ca/svcode/sdk/ResponseBuilder.html
+SHA-256-Digest: PKv7g1EPc6cZgU6DC3yhXUhbijxZkh4NEZvrt9S0xok=
+
+Name: com/ca/svcode/api/VerifiedTransactionBuilder.html
+SHA-256-Digest: vJIl3+IJjzGNs25DdPvD7UY5UuAnFb69AUmBiQE60q0=
+
+Name: com/ca/svcode/sdk/function/Predicate.html
+SHA-256-Digest: mIoEvafy3Uwis8m2AywCN89b3tCKTyprgL/S1lxWHHU=
+
+Name: script.js
+SHA-256-Digest: nJwDr+aQIKCr6lA9u+r9q199SUJpGEpnleeAlR4khjk=
+
+Name: com/ca/svcode/protocols/http/fluent/AbstractHttpRequestMessageBu
+ ilder.html
+SHA-256-Digest: lFtXABD3+05828x0CBJkZR7UnZNwA2tYIt8QW3GQVJc=
+
+Name: com/ca/svcode/protocols/http/fluent/package-summary.html
+SHA-256-Digest: Cus3G/+93G9r9fe8BDxRGjqlyfpUY9uw1GM46h3L52Q=
+
+Name: com/ca/svcode/sdk/package-frame.html
+SHA-256-Digest: N5oSOxqGZDGO2nyvhkx4POkkmy3xJbfOCPCyX7BmWHQ=
+
+Name: com/ca/svcode/protocols/http/package-tree.html
+SHA-256-Digest: rTVZVHzQfl6+eMJ5SuzDRc/bmWelHbq5Gii/c8R97fI=
+
+Name: overview-frame.html
+SHA-256-Digest: Y+TVtzZpNydyShJKDjm4ncDcwoKuSgBNqd8aK5yrznw=
+
+Name: com/ca/svcode/agent/Agent.html
+SHA-256-Digest: FlJUKa8AIryvjmpVgVrF7zkU/RsETN3uuQr4jLoevfs=
+
+Name: com/ca/svcode/sdk/function/package-summary.html
+SHA-256-Digest: LYkilQjdBqbFzsd3G3pH8aZK0e4FXhr94nuJH4NkzQw=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpRequestMessageBuilder.ht
+ ml
+SHA-256-Digest: 3nIXpqQyGRo7XIbxPwnYStZJyXyhLiJrgnQ7J1ueJiI=
+
+Name: index-all.html
+SHA-256-Digest: 5I6AtxMToLu14zrZRqLQ0OBqUyuQ+SihGbIY6Wh4QXk=
+
+Name: com/ca/svcode/protocols/http/fluent/package-tree.html
+SHA-256-Digest: vjnrOC+xSQn0rhhDCNiAsYMltLe8v/0cdoqNyspHhnM=
+
+Name: com/ca/svcode/sdk/Response.html
+SHA-256-Digest: 9cF2mYYl3E3EQnQkH8BnRnJNLhvbjXXpCqRd9QfLROU=
+
+Name: com/ca/svcode/protocols/http/matchers/HttpMatchers.html
+SHA-256-Digest: NIniVZv6nMYZyRzHHkj1KSoVezcctG3SSm1slaTzED0=
+
+Name: serialized-form.html
+SHA-256-Digest: PiOgDrk9G2O8kBOL/zktwZLglLg1UfjOl3xPWGjp3y8=
+
+Name: com/ca/svcode/api/matchers/package-tree.html
+SHA-256-Digest: FtdKr6Oc8zps4hm75PWn/pr0xFKLE9yL+on8taKbNQs=
+
+Name: com/ca/svcode/sdk/package-tree.html
+SHA-256-Digest: nBpfCIiCHu4isfbvFGZpFBw3kQNmVnir5Duk3MzXTiA=
+
+Name: help-doc.html
+SHA-256-Digest: HUNSZDrawXIWQAoe9eBvz4hX1OUGY7CXxZlYvRFrNIc=
+
+Name: com/ca/svcode/agent/hijack/HijackBehavior.html
+SHA-256-Digest: lPgc17WcbwmT20ckUT0eMJozqmpoXY+4j1d81EwcvbQ=
+
+Name: com/ca/svcode/api/package-frame.html
+SHA-256-Digest: evqe7Sv3275Ga2ZopRAFRzFdral1/BdGIbUmFKXzbVI=
+
+Name: com/ca/svcode/api/package-summary.html
+SHA-256-Digest: 3FOiLz9uueUe4T7QQinYN99XBW55to1ORGIGzAzAiIY=
+
+Name: com/ca/svcode/agent/package-frame.html
+SHA-256-Digest: adNZcwgUC2KPjmgzzW2jy2U30X6W+G0R+4X5AAd0nLE=
+
+Name: com/ca/svcode/protocols/http/fluent/AbstractHttpTransactionBuild
+ er.html
+SHA-256-Digest: mg8rL4kTXxIYvq1M53eZ4nLDBD7yCZAdGpgPJIpMvTw=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpTransactionVerificationB
+ uilder.html
+SHA-256-Digest: jXvxri1d12xG3U0VS0YpuZL5oJv580oXbXg60QZvVXQ=
+
+Name: com/ca/svcode/sdk/function/Composition.PredicateComposition.html
+SHA-256-Digest: rhxbb8d1AjzAWBBs8QeEX6zJpUc5nGy/32eGITaMaFk=
+
+Name: com/ca/svcode/api/VirtualServer.html
+SHA-256-Digest: Pzt0Od4w9PaiSdGe9E4OiMIQKovc7ARdv6sD8Ox8Ync=
+
+Name: com/ca/svcode/sdk/function/Composition.html
+SHA-256-Digest: 9jxa95QmT3uxXSp3sHvLjOkHuPxwydOqf7ZWk9AbErQ=
+
+Name: overview-tree.html
+SHA-256-Digest: uqJTm9rer5dINZ+EN1kCqvoRyuLq3DmOciSbWNf0qFw=
+
+Name: com/ca/svcode/engine/junit4/package-frame.html
+SHA-256-Digest: LWSWt4fIn7T1hnSh4pjy1XF02l0cuILBSXdorrIA4N4=
+
+Name: com/ca/svcode/agent/package-summary.html
+SHA-256-Digest: CSXdQ70+LMfS7H47UW+elZm87HaxiDy59UKBJZbNrOI=
+
+Name: com/ca/svcode/protocols/http/fluent/HttpPayload.html
+SHA-256-Digest: 1obdUupfKxcaUgNXDwfSmoxY0jsYXem65Cku+D3mI0Q=
+
+Name: com/ca/svcode/sdk/Protocol.html
+SHA-256-Digest: I7toK6eU3EPy3ETBI6dJtXVUr8J4b3ZSv7VvTWjiWIM=
+
+Name: com/ca/svcode/protocols/http/fluent/package-frame.html
+SHA-256-Digest: pylIrMsm3EheHlbSgRhzaG6b7ucpcv8xwHCnM+J137A=
+
+Name: com/ca/svcode/agent/hijack/package-frame.html
+SHA-256-Digest: gAvn1RqJG6drg06MFPLbLLCT+JLOicxM2dhD6Kdo5Fw=
+
+Name: com/ca/svcode/api/VirtualServiceBuilder.html
+SHA-256-Digest: 62SUFn+UHCEwubXgVMvketQ6By3ZWMpLFU3E+YwjY50=
+
+Name: com/ca/svcode/sdk/GenericResponseBuilder.html
+SHA-256-Digest: xQnDTYr3DYhLiPN6USRuY4Ubgryu07WN1WP5l7s48lY=
+
+Name: com/ca/svcode/api/matchers/PredicateMatcher.html
+SHA-256-Digest: xn8w82fAsM8yv6CHGifPNkbp6YntURT/kREWWxJgy6k=
+
+Name: com/ca/svcode/agent/AgentTransformer.html
+SHA-256-Digest: xVcNBIQAvmqK4QeQaPlDmpgee6KJmaXSWIAoRbolv6s=
+
+Name: com/ca/svcode/api/ProtocolServer.html
+SHA-256-Digest: UrlOMotUK5bMxhnsQ6zmC1mCT7NJeA9/S++1kAz7G/I=
+
+Name: com/ca/svcode/protocols/http/matchers/package-summary.html
+SHA-256-Digest: aQAaqIbVsqHgqT7pYfxA/1kybh52ImWnt8VLPc1CuVg=
+
+Name: com/ca/svcode/protocols/http/package-summary.html
+SHA-256-Digest: j3vxmS1/S8D9ZtwjxpaxTc8NlO2hcJsuvRMBsNhZX90=
+
+Name: com/ca/svcode/api/matchers/package-summary.html
+SHA-256-Digest: pPJB2dMCCPebtgSGi60m7lD8gF9eDkl1FSu2/hjUMUg=
+

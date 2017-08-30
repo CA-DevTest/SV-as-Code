@@ -1,2 +1,0 @@
-# SV-as-Code
-
