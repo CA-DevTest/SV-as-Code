@@ -8,7 +8,7 @@ You can create and run HTTP virtual service definitions directly in your unit te
 
 Even better, the HTTP virtual services are completely transparent to an application under test and so you don't need to make any configuration tweaks.
 
-[How to use SV as Code](https://github.com/CA-DevTest/SV-as-Code/wiki)
+[How to use SV as Code](https://github.com/CA-DevTest/SV-as-Code/wiki/Quick-Start-Guide)
 
 [Share ideas and raise issues](https://communities.ca.com/community/ca-devtest-community/content?filterID=contentstatus%5Bpublished%5D~category%5Bsv-as-code%5D)
 
